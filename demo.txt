@@ -1,5 +1,9 @@
 1.create repository
 
+4a. 3rd commit 1st change
+
 2.first commit
 
 3.second commit
+
+4b. 3rd commit 2nd change
